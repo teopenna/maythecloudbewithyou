@@ -1,14 +1,14 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Starter Blog`,
+    title: `May the Cloud be with you`,
     author: {
-      name: `Kyle Mathews`,
-      summary: `who lives and works in San Francisco building useful things.`,
+      name: `Teo Penna`,
+      summary: `ex-young geek with head in the cloud`,
     },
-    description: `A starter blog demonstrating what Gatsby can do.`,
-    siteUrl: `https://gatsbystarterblogsource.gatsbyjs.io/`,
+    description: `Thoughs.About("cloud").Random();`,
+    siteUrl: `https://teopenna.github.io/`,
     social: {
-      twitter: `kylemathews`,
+      twitter: `teopenna`,
     },
   },
   plugins: [
